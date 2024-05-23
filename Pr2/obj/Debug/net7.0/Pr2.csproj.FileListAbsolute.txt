@@ -1,0 +1,14 @@
+C:\Users\makor\source\repos\CSharpLabs2024\Pr2\obj\Debug\net7.0\Pr2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\makor\source\repos\CSharpLabs2024\Pr2\obj\Debug\net7.0\Pr2.AssemblyInfoInputs.cache
+C:\Users\makor\source\repos\CSharpLabs2024\Pr2\obj\Debug\net7.0\Pr2.AssemblyInfo.cs
+C:\Users\makor\source\repos\CSharpLabs2024\Pr2\obj\Debug\net7.0\Pr2.csproj.CoreCompileInputs.cache
+C:\Users\makor\source\repos\CSharpLabs2024\Pr2\bin\Debug\net7.0\Pr2.exe
+C:\Users\makor\source\repos\CSharpLabs2024\Pr2\bin\Debug\net7.0\Pr2.deps.json
+C:\Users\makor\source\repos\CSharpLabs2024\Pr2\bin\Debug\net7.0\Pr2.runtimeconfig.json
+C:\Users\makor\source\repos\CSharpLabs2024\Pr2\bin\Debug\net7.0\Pr2.dll
+C:\Users\makor\source\repos\CSharpLabs2024\Pr2\bin\Debug\net7.0\Pr2.pdb
+C:\Users\makor\source\repos\CSharpLabs2024\Pr2\obj\Debug\net7.0\Pr2.dll
+C:\Users\makor\source\repos\CSharpLabs2024\Pr2\obj\Debug\net7.0\refint\Pr2.dll
+C:\Users\makor\source\repos\CSharpLabs2024\Pr2\obj\Debug\net7.0\Pr2.pdb
+C:\Users\makor\source\repos\CSharpLabs2024\Pr2\obj\Debug\net7.0\Pr2.genruntimeconfig.cache
+C:\Users\makor\source\repos\CSharpLabs2024\Pr2\obj\Debug\net7.0\ref\Pr2.dll
